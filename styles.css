@@ -48,31 +48,40 @@ body {
 h1 {
 	font-family: arial, sans-serif;
 	font-weigth: 200;
-	color: #0f0f0f;
+	color: #1f1f1f;
 	font-size: 48px;
 	margin-bottom: 0px;
 }
 
 p {
-	font-family: 'EB Garamond', serif;
+	font-family: 'Lora', serif;
 	font-size: 19px;
+	color: #1f1f1f;
+
+}
+
+p:first-child {
 	margin-top: 0px;
 }
+
 
 .quote {
 	font-family: 'EB Garamond', serif;
 	font-size: 27px;
 	margin-left: 16.66667%;
 	margin-right: 16.66667%;
+	padding: 5px;
+	color: #1f1f1f;
+
 }
 
-.quote:before {
+.quote::before {
 	content: '"';
 	font-size: 36px;
 	margin: 0px;
 }
 
-.quote:after {
+.quote::after {
 	content: '"';
 	font-size: 36px;
 	margin: 0px;

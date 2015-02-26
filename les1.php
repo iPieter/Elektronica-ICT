@@ -5,8 +5,7 @@
 	<title>Les 1</title>
 
 	<link href="styles.css" rel="stylesheet" type= "text/css" >
-	<link href='http://fonts.googleapis.com/css?family=EB+Garamond&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-
+	<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 </head>
 <body>
 <div id = "topbar" >
