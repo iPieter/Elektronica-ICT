@@ -38,6 +38,13 @@ Het was een donkere nacht; een eenzame voetganger ploegde door de sneeuw die gev
 
 </div>			
 
+<div id = "footer" >
+
+	<?php 
+	include("footer.php"); ?>
+	  
+</div>
+
 </body>
 </html>
   

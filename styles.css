@@ -19,8 +19,6 @@ body {
 }
 
 .element {
-	display: inline-block;
-	width: 16.666667%;
 	text-align: center;
 	height: 38px; 
 }
@@ -32,11 +30,6 @@ body {
 
 .active {
 	border-bottom: 4px solid #34495e;
-}
-
-.container {
-	margin-left: 16.666667%;
-	margin-right: 16.66667%;
 }
 
 .imagecontainer {
@@ -60,10 +53,6 @@ p {
 
 }
 
-p:first-child {
-	margin-top: 0px;
-}
-
 
 .quote {
 	font-family: helvetica, sans-serif;
@@ -81,4 +70,54 @@ p:first-child {
 img {
 	width: 100%;
 	border-radius: 4px;
+}
+
+.video {
+    width: 100%; 
+}
+
+#footer {
+    background-color: #34495e;
+    color: #ecf0f1;
+    padding-left: 16.66666%;
+    padding-right: 16.66666%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    border-top: 1px solid #2c3e50;    
+}
+
+#footer div {
+    display: inline-block;
+}
+
+#footer #right {
+    float: right;
+}
+
+/* veranderen bij klein-groter beeldscherm*/
+
+@media (min-width: 481px) {
+    .element {
+	   display: inline-block;
+	   width: 16.666666%;
+    }
+    
+    .container {
+	margin-left: 16.666667%;
+	margin-right: 16.66667%;
+}
+}
+
+
+@media (max-width: 480px) {
+    .element {
+	   display: block;
+	   width: 100%;
+    }
+    
+    .container {
+	margin-left: 5%;
+	margin-right: 5%;
+}
 }

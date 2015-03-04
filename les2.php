@@ -19,12 +19,25 @@
 	
 <div class= "container" >
 		 
-		 <h1>Les 2</h1>
-		 
+    <h1>Les 2</h1>
+    
+    <video class= "video" controls> 
+        <source src = "images/omegabierma.mp4" 
+            type = "video/mp4">
+    </video>
 
 			
 			
 </div>
+
+    
+<div id = "footer" >
+
+	<?php 
+	include("footer.php"); ?>
+	  
+</div>
+
 
 </body>
 </html>
