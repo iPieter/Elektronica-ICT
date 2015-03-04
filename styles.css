@@ -1,5 +1,5 @@
 body { 
- font-family: arial, sans-serif;
+ font-family: helvetica, sans-serif;
  margin: 0px;
 }
 
@@ -66,25 +66,16 @@ p:first-child {
 
 
 .quote {
-	font-family: 'EB Garamond', serif;
-	font-size: 27px;
+	font-family: helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: 100;
 	margin-left: 16.66667%;
 	margin-right: 16.66667%;
 	padding: 5px;
 	color: #1f1f1f;
+	
+	border-left: 4px solid #34495e;
 
-}
-
-.quote::before {
-	content: '"';
-	font-size: 36px;
-	margin: 0px;
-}
-
-.quote::after {
-	content: '"';
-	font-size: 36px;
-	margin: 0px;
 }
 
 img {
