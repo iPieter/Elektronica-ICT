@@ -72,6 +72,31 @@ img {
 	border-radius: 4px;
 }
 
+.video {
+    width: 100%; 
+}
+
+#footer {
+    background-color: #34495e;
+    color: #ecf0f1;
+    padding-left: 16.66666%;
+    padding-right: 16.66666%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    border-top: 1px solid #2c3e50;    
+}
+
+#footer div {
+    display: inline-block;
+}
+
+#footer #right {
+    float: right;
+}
+
+/* veranderen bij klein-groter beeldscherm*/
+
 @media (min-width: 481px) {
     .element {
 	   display: inline-block;
