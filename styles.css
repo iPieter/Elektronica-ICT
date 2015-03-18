@@ -33,9 +33,33 @@ body {
 }
 
 .imagecontainer {
+	background-color: #f1f1f1;
+}
+
+.image {
 	padding-left: 12%;
 	padding-right: 12%;
-	background-color: #f1f1f1;
+}
+
+.imagecaption {
+	margin-top: 12px;
+	font-family: 'Lora', serif;
+	font-size: 17px;
+	text-align: center;
+	color: rgb(104,104,104);
+	font-style: italic;
+}
+
+.imagecaption hr {
+	width: 30%;
+	color: rgba(255,255,255,0);
+	border-bottom: 0.5px solid rgb(104,104,104);
+}
+
+.lang {
+	height: 18px;
+	width: 24px;
+	margin: 0px;
 }
 
 h1 {
@@ -52,6 +76,7 @@ h2 {
 	color: #1f1f1f;
 	font-size: 24px;
 	margin-bottom: 0px;	
+    display: inline-block;
 }
 
 p {
@@ -101,6 +126,17 @@ img {
 
 #footer #right {
     float: right;
+    margin: px;
+    
+}
+
+.profile {
+    margin-right: 0px;
+    margin-top: 0px;
+    width: 16.666667%;
+    display: inline-block;
+    float: right;
+    
 }
 
 /* veranderen bij klein-groter beeldscherm*/
@@ -129,3 +165,4 @@ img {
 	margin-right: 5%;
 }
 }
+

@@ -20,7 +20,12 @@
 		 
 	<h1>Biografie</h1>
 	<h2>Pieter</h2>	 
-	<p>
+    
+    <div class = "profile">
+        <img src = "images/profile_Pieter.jpg"/>
+    </div>
+	
+    <p>
 Het was een donkere nacht; een eenzame voetganger ploegde door de sneeuw die gevallen was op de parking voor het ziekenhuis, zoekende achter haar volledig ondergesneeuwde wagen. Achter de meeste vensters in het gebouw achter haar brandde geen licht meer. <i>Logisch ook, op dit uur,</i> dacht ze. Toen ze net haar auto had gevonden en wou instappen, hoorde ze uit datzelfde gebouw een hels gekrijs komen, alsof iemand dood ging.</p>
 		 		 
 	<p><i>Er kon ook iemand doodgaan,</i> schoot door haar heen. Het gebouw waar dat geschreeuw al enkele minuten uit kwam was de kraamafdeling in Leuven. Wat de blondharige vrouw echter niet besefte toen ze wegreed van de parking, is dat op dat er op die koude winteravond niemand stierf, maar dat er een jongen werd geboren.</p>
@@ -30,11 +35,19 @@ Het was een donkere nacht; een eenzame voetganger ploegde door de sneeuw die gev
 	<p>Het toeval wou dan ook dat die dag&mdash;de eerste dag van dat schooljaar&mdash;diezelfde jongen binnenstapte in haar lokaal, nieuwsgierig rondkijkende zoals iedere negenjarige deed.</p>
 	<p>Bijna tien jaar later zag ze op Facebook&mdash;waar ze ooit eens al haar oud-leerlingen op had toegevoegd&mdash;dat diezelfde jongen
 	aan een studie industrie&euml;l ingenieur begonnen was, en ze was trots op hem.</p>
+	<div class="quote">Mijn geest is verontreinigd.</div>
+	<p><b>Disclaimer: </b><i>In mijn leven is er nooit&mdash;voor zover ik weet &mdash;een vrouw geweest die zowel aanwezig was op de parking van het ziekenhuis waar ik ben geboren, alsook mijn leerkracht was. Zij is ontsprongen aan mijn verbeelding en dient enkel als literair standpunt.</i></p>
+	
 
 	<h2>Gerben</h2>
+    
+    <div class = "profile">
+        <img src = "images/profile_Gerben.jpg"/>
+    </div>
+    
 	<p>Gerben was geboren op 14 april 1996 in Zottegem. Zijn hobby is paardrijden.</p>
 	<div class="quote">Daar kunt ge nie voor sukkelen!</div>
-	<p>Ook hij studeert voor industrie&euml;l ingenieur</p>
+	<p>Ook hij studeert voor industrie&euml;l ingenieur.<br><br><br><br></p>
 
 </div>			
 
@@ -44,6 +57,8 @@ Het was een donkere nacht; een eenzame voetganger ploegde door de sneeuw die gev
 	include("footer.php"); ?>
 	  
 </div>
+
+
 
 </body>
 </html>
