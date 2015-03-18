@@ -4,7 +4,7 @@
 <head>
 	<title>Les 2</title>
 
-	<link href="styles.css" rel="stylesheet" type= "text/css" >
+	<link href="../styles.css" rel="stylesheet" type= "text/css" >
 	<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
 </head>
@@ -24,7 +24,7 @@
 
   <!-- image element -->
 <div class = "image imagecontainer">
-		 <img src="images/les_2_gerben_soldering.jpg">			
+		 <img src="../images/les_2_gerben_soldering.jpg">			
 </div>
 <div class="image imagecaption">Gerben wijnant finishes the led strip.
 	<hr>

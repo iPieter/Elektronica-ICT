@@ -4,7 +4,7 @@
 <head>
 	<title>Besluit</title>
 
-	<link href="styles.css" rel="stylesheet" type= "text/css" >
+	<link href="../styles.css" rel="stylesheet" type= "text/css" >
 	<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
 </head>
@@ -26,7 +26,7 @@
 <div class = "image imagecontainer">
     
     <video class= "video" controls> 
-        <source src = "images/omegabierma.mp4" 
+        <source src = "../images/omegabierma.mp4" 
             type = "video/mp4">
     </video> 			
 
