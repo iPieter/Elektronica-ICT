@@ -20,6 +20,11 @@
 		 
 	<h1>Biography</h1>
 	<h2>Pieter</h2>	 
+	
+	 <div class = "profile">
+        <img src = "../images/profile_Pieter.jpg"/>
+    </div>
+    
 	<p>On a dark night, a single pedestrian ploughed throught a layer of snow, almost 3 inches thick, fallen on the parking lot in front of the local hospital. She was searching for her car, amongst all the cars covered by a blanket of snow. All the lights behind the windows on the cubical, concrete building on the background had been switched off hours ago. <i>Not that I expected something else, on this hour,</i> she thought. On the very moment she finished removing the 3 inch-tick layer of snow, she heard a piercing scream coming from the same building behind her; she heard the same sound she expected people make just before they die.</p>
 
 <p><i>Someone could die,</i> she realized. When she drove away from the building, more specifically the maternity ward, she failed to realize no man died that night, however a child was born. A boy. </p>
@@ -30,9 +35,15 @@
 	
 
 	<h2>Gerben</h2>
-	<p>Gerben was geboren op 14 april 1996 in Zottegem. Zijn hobby is paardrijden.</p>
-	<div class="quote">Daar kunt ge nie voor sukkelen!</div>
-	<p>Ook hij studeert voor industrie&euml;l ingenieur</p>
+	
+    <div class = "profile">
+        <img src = "../images/profile_Gerben.jpg"/>
+    </div>	
+		<p>Gerben is born April 15, 1996 in Zottegem. His hobby is back horse riding.</p>
+	<div class="quote">I don't do English!</div>
+	<p>He studies industrial engineering as well.<br><br><br><br>       
+    </p>
+
 
 </div>			
 

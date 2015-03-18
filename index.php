@@ -47,8 +47,7 @@ Het was een donkere nacht; een eenzame voetganger ploegde door de sneeuw die gev
     
 	<p>Gerben was geboren op 14 april 1996 in Zottegem. Zijn hobby is paardrijden.</p>
 	<div class="quote">Daar kunt ge nie voor sukkelen!</div>
-	<p>Ook hij studeert voor industrie&euml;l ingenieur.<br>       <br><br><br>       
-    </p>
+	<p>Ook hij studeert voor industrie&euml;l ingenieur.<br><br><br><br></p>
 
 </div>			
 
