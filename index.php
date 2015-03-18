@@ -20,7 +20,12 @@
 		 
 	<h1>Biografie</h1>
 	<h2>Pieter</h2>	 
-	<p>
+    
+    <div class = "profile">
+        <img src = "images/profile_Pieter.jpg"/>
+    </div>
+	
+    <p>
 Het was een donkere nacht; een eenzame voetganger ploegde door de sneeuw die gevallen was op de parking voor het ziekenhuis, zoekende achter haar volledig ondergesneeuwde wagen. Achter de meeste vensters in het gebouw achter haar brandde geen licht meer. <i>Logisch ook, op dit uur,</i> dacht ze. Toen ze net haar auto had gevonden en wou instappen, hoorde ze uit datzelfde gebouw een hels gekrijs komen, alsof iemand dood ging.</p>
 		 		 
 	<p><i>Er kon ook iemand doodgaan,</i> schoot door haar heen. Het gebouw waar dat geschreeuw al enkele minuten uit kwam was de kraamafdeling in Leuven. Wat de blondharige vrouw echter niet besefte toen ze wegreed van de parking, is dat op dat er op die koude winteravond niemand stierf, maar dat er een jongen werd geboren.</p>
@@ -35,9 +40,15 @@ Het was een donkere nacht; een eenzame voetganger ploegde door de sneeuw die gev
 	
 
 	<h2>Gerben</h2>
+    
+    <div class = "profile">
+        <img src = "images/profile_Gerben.jpg"/>
+    </div>
+    
 	<p>Gerben was geboren op 14 april 1996 in Zottegem. Zijn hobby is paardrijden.</p>
 	<div class="quote">Daar kunt ge nie voor sukkelen!</div>
-	<p>Ook hij studeert voor industrie&euml;l ingenieur</p>
+	<p>Ook hij studeert voor industrie&euml;l ingenieur.<br>       <br><br><br>       
+    </p>
 
 </div>			
 
@@ -47,6 +58,8 @@ Het was een donkere nacht; een eenzame voetganger ploegde door de sneeuw die gev
 	include("footer.php"); ?>
 	  
 </div>
+
+
 
 </body>
 </html>
