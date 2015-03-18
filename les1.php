@@ -19,12 +19,22 @@
 <div class = "container" >
 		 
 		 <h1>Les 1</h1>
-</div>
-<div class = "imagecontainer">
-		 <img src="images/thermostat.jpg">
-			
+		 <p>Bij de aanvang van deze les, hebben we korte instructies gekregen om te solderen. Dit hebben we die les dan ook voldoende kunnen inoefenen; eerst op een testplaat en daarna op een PCB. Hierop hebben we enkele weerstanden gesoldeerd die de basis vormden voor de aansturing van de LED-stip.</p>
 </div>
 
+<!-- image element -->
+<div class = "image imagecontainer">
+		 <img src="images/les_1_upside_pcb.jpg">			
+</div>
+<div class="image imagecaption">De bovenzijde van de PCB op het einde van les 1
+	<hr>
+</div>
+<!-- end image element -->
+
+<div class = "container" >
+		 
+		 <p>Naast leren solderen, hebben we ook kennis gemaakt met de wereld van weerstanden: we kunnen nu ook uitrekenen wat de weerstandswaarde is door gebruik te maken van de kleurcodering.</p>
+</div>
 <div id = "footer" >
 
 	<?php 

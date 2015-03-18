@@ -30,6 +30,9 @@ Het was een donkere nacht; een eenzame voetganger ploegde door de sneeuw die gev
 	<p>Het toeval wou dan ook dat die dag&mdash;de eerste dag van dat schooljaar&mdash;diezelfde jongen binnenstapte in haar lokaal, nieuwsgierig rondkijkende zoals iedere negenjarige deed.</p>
 	<p>Bijna tien jaar later zag ze op Facebook&mdash;waar ze ooit eens al haar oud-leerlingen op had toegevoegd&mdash;dat diezelfde jongen
 	aan een studie industrie&euml;l ingenieur begonnen was, en ze was trots op hem.</p>
+	<div class="quote">Mijn geest is verontreinigd.</div>
+	<p><b>Disclaimer: </b><i>In mijn leven is er nooit&mdash;voor zover ik weet &mdash;een vrouw geweest die zowel aanwezig was op de parking van het ziekenhuis waar ik ben geboren, alsook mijn leerkracht was. Zij is ontsprongen aan mijn verbeelding en dient enkel als literair standpunt.</i></p>
+	
 
 	<h2>Gerben</h2>
 	<p>Gerben was geboren op 14 april 1996 in Zottegem. Zijn hobby is paardrijden.</p>
