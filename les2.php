@@ -20,16 +20,26 @@
 <div class= "container" >
 		 
     <h1>Les 2</h1>
-    
-    <video class= "video" controls> 
-        <source src = "images/omegabierma.mp4" 
-            type = "video/mp4">
-    </video>
-
-			
-			
 </div>
 
+  <!-- image element -->
+<div class = "image imagecontainer">
+		 <img src="images/les_2_gerben_soldering.jpg">			
+</div>
+<div class="image imagecaption">Gerben wijnant legt de laatste loodjes aan de LED-strip.
+	<hr>
+</div>
+<!-- end image element -->
+    
+<div class= "container" >
+    <p>
+        Eerst en vooral kregen we een korte briefing over wat er die dag moest gebeuren: hoe condensatoren, LED's en potentiometers solderen. Daarna hebben we ons opgesplitst om het werk zo vlot mogelijk te laten verlopen; Pieter werkte verder aan de printplaat en Gerben deed het voorbereidende en logistieke werk. 
+    </p>
+    
+</div>
+    
+    
+   <!-- footer  - - - - - - - - - - - - - - -->
     
 <div id = "footer" >
 

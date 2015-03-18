@@ -33,7 +33,7 @@ body {
 }
 
 .imagecontainer {
-	background-color: #f1f1f1;
+	background-color:#ebebeb ;
 }
 
 .image {
@@ -106,7 +106,8 @@ img {
 }
 
 .video {
-    width: 100%; 
+    width: 100%;
+    border-radius: 4px;
 }
 
 #footer {
@@ -136,7 +137,7 @@ img {
     width: 16.666667%;
     display: inline-block;
     float: right;
-    
+    margin-left: 10px;
 }
 
 /* veranderen bij klein-groter beeldscherm*/
