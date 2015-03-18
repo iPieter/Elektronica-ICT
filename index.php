@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 
 <html>
@@ -62,4 +63,3 @@ Het was een donkere nacht; een eenzame voetganger ploegde door de sneeuw die gev
 
 </body>
 </html>
-  
