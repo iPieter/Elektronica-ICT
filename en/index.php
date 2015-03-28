@@ -2,7 +2,7 @@
 
 <html>
 <head>
-	<title>Autobiografie</title>
+	<title>Biography</title>
 	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" /> 
 	<link href="../styles.css" rel="stylesheet" type= "text/css" >
 	<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -11,7 +11,7 @@
 <div id = "topbar" >
 	
 	<?php  
-	$name = "biograph";
+	$name = "index";
 	include("topbar.php"); ?>
 	  
 </div>
@@ -29,8 +29,10 @@
 
 <p><i>Someone could die,</i> she realized. When she drove away from the building, more specifically the maternity ward, she failed to realize no man died that night, however a child was born. A boy. </p>
 
-<p>Years went by, and the blond-haired woman had forgotten the piercing scream on that parking lot, but her unconscious memories kept preserving the emotions she associated with that very scream, waiting to surface until she heard a similar sound. In her daily life, there was a ubiquitous flood of cries, but nothing like the sound that echoed through the aisles of a hospital in North Brabant. The cries of children were not similar at al; children make cries of joy, not sorrow. Even the whining toddler on the playground sounded </p>
-	<p><b>Disclaimer: </b><i>In mijn leven is er nooit&mdash;voor zover ik weet &mdash;een vrouw geweest die zowel aanwezig was op de parking van het ziekenhuis waar ik ben geboren, alsook mijn leerkracht was. Zij is ontsprongen aan mijn verbeelding en dient enkel als literair standpunt.</i></p>
+<p>Years went by, and the blond-haired woman had forgotten the piercing scream on that parking lot, but her unconscious memories kept preserving the emotions she associated with that very scream, waiting to surface until she heard a similar sound. In her daily life, there was a ubiquitous flood of cries, but nothing like the sound that echoed through the aisles of a hospital in North Brabant. The cries of children were not similar at al; children make cries of joy, not sorrow. Even the whining toddler on the playground sounded nothing like what she heard that night. It doesn't sound as real, as painful. Children are resilient, she knew due to her experience as a teacher.</p>
+
+<p>She never got to know, not even learned, that one of the toddlers—who all walked in her classroom that day—was the origin of the haunting scream she heard in the winter of ’96.</p>
+	<p><b>Disclaimer: </b><i>The woman on the parking lot has never existed to the best of my knowledge.</i></p>
 	
 
 	<h2>Gerben</h2>

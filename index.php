@@ -11,7 +11,7 @@
 <div id = "topbar" >
 	
 	<?php  
-	$name = "biograph";
+	$name = "index";
 	include("topbar.php"); ?>
 	  
 </div>

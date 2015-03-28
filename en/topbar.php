@@ -1,6 +1,6 @@
 <ul>
-	<li class = "element first-element <?php if ($name=="biograph") {echo "active";} ?>" > 
-		<a href="index.php" id = "biograph" >Biography</a> 
+	<li class = "element first-element <?php if ($name=="index") {echo "active";} ?>" > 
+		<a href="index.php" id = "index" >Biography</a> 
 	</li>		
 	<li class = "element <?php if ($name=="les1") {echo "active";} ?>">
 		<a href="les1.php" id = "les1" >Lesson 1</a> 

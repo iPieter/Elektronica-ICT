@@ -19,7 +19,7 @@
 	
 <div class = "container" >
 		 
-	 <h1>Besluit</h1>
+	 <h1>Conclusion</h1>
 </div>
     
   <!-- video element -->
