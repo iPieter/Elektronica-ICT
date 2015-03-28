@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>Autobiografie</title>
-
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" /> 
 	<link href="styles.css" rel="stylesheet" type= "text/css" >
 	<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 </head>
@@ -35,7 +35,6 @@ Het was een donkere nacht; een eenzame voetganger ploegde door de sneeuw die gev
 	<p>Het toeval wou dan ook dat die dag&mdash;de eerste dag van dat schooljaar&mdash;diezelfde jongen binnenstapte in haar lokaal, nieuwsgierig rondkijkende zoals iedere negenjarige deed.</p>
 	<p>Bijna tien jaar later zag ze op Facebook&mdash;waar ze ooit eens al haar oud-leerlingen op had toegevoegd&mdash;dat diezelfde jongen
 	aan een studie industrie&euml;l ingenieur begonnen was, en ze was trots op hem.</p>
-	<div class="quote">Mijn geest is verontreinigd.</div>
 	<p><b>Disclaimer: </b><i>In mijn leven is er nooit&mdash;voor zover ik weet &mdash;een vrouw geweest die zowel aanwezig was op de parking van het ziekenhuis waar ik ben geboren, alsook mijn leerkracht was. Zij is ontsprongen aan mijn verbeelding en dient enkel als literair standpunt.</i></p>
 	
 
@@ -59,6 +58,15 @@ Het was een donkere nacht; een eenzame voetganger ploegde door de sneeuw die gev
 </div>
 
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-60916631-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </body>
 </html>

@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>Autobiografie</title>
-
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" /> 
 	<link href="../styles.css" rel="stylesheet" type= "text/css" >
 	<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 </head>
@@ -30,7 +30,6 @@
 <p><i>Someone could die,</i> she realized. When she drove away from the building, more specifically the maternity ward, she failed to realize no man died that night, however a child was born. A boy. </p>
 
 <p>Years went by, and the blond-haired woman had forgotten the piercing scream on that parking lot, but her unconscious memories kept preserving the emotions she associated with that very scream, waiting to surface until she heard a similar sound. In her daily life, there was a ubiquitous flood of cries, but nothing like the sound that echoed through the aisles of a hospital in North Brabant. The cries of children were not similar at al; children make cries of joy, not sorrow. Even the whining toddler on the playground sounded </p>
-	<div class="quote">My mind is intoxicated</div>
 	<p><b>Disclaimer: </b><i>In mijn leven is er nooit&mdash;voor zover ik weet &mdash;een vrouw geweest die zowel aanwezig was op de parking van het ziekenhuis waar ik ben geboren, alsook mijn leerkracht was. Zij is ontsprongen aan mijn verbeelding en dient enkel als literair standpunt.</i></p>
 	
 
@@ -54,6 +53,16 @@
 	  
 </div>
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60916631-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </body>
 </html>
   

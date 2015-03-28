@@ -28,6 +28,11 @@ body {
 	
 }
 
+ul {
+	margin: 0;
+	padding: 0;
+}
+
 .active {
 	border-bottom: 4px solid #34495e;
 }
@@ -74,7 +79,7 @@ h2 {
 	font-family: helvetica, sans-serif;
 	font-weigth: 500;
 	color: #1f1f1f;
-	font-size: 24px;
+	font-size: 32px;
 	margin-bottom: 0px;	
     display: inline-block;
 }
@@ -121,49 +126,88 @@ img {
     border-top: 1px solid #2c3e50;    
 }
 
-#footer div {
-    display: inline-block;
-}
-
-#footer #right {
-    float: right;
-    margin: px;
-    
-}
-
-.profile {
-    margin-right: 0px;
-    margin-top: 0px;
-    width: 16.666667%;
-    display: inline-block;
-    float: right;
-    margin-left: 10px;
-}
-
 /* veranderen bij klein-groter beeldscherm*/
 
-@media (min-width: 481px) {
+@media (min-device-width: 481px) {
     .element {
 	   display: inline-block;
 	   width: 16.666666%;
     }
     
     .container {
-	margin-left: 16.666667%;
-	margin-right: 16.66667%;
-}
+		margin-left: 16.666667%;
+		margin-right: 16.66667%;
+	}
+	
+	.element {
+		padding-top: 20px;
+		text-align: center;
+		height: 38px; 
+	}
+	
+	.first-element {
+		margin-left: 16.6667%;
+	}
+	
+	#footer div {
+    	display: inline-block;
+    }
+    #footer #right {
+    	float: right;
+    	margin: 0px;
+    }
+    
+    .profile {
+	    margin-right: 0px;
+	    margin-top: 0px;
+	    width: 16.666667%;
+	    display: inline-block;
+	    float: right;
+	    margin-left: 10px;
+    }
+
 }
 
 
-@media (max-width: 480px) {
+@media (max-device-width: 480px) {
     .element {
 	   display: block;
 	   width: 100%;
     }
     
     .container {
-	margin-left: 5%;
-	margin-right: 5%;
-}
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+	
+	.element {
+		padding-top: 5px;
+		text-align: center;
+		height: 25px;
+		margin-bottom: 0px; 
+	}
+	
+	.first-element {
+		margin-left: 0px;
+	}
+	
+	#footer div {
+    	display: block;
+    	text-align: center;
+    }
+    
+        #footer #right {
+    	margin-top: 10px;
+    }
+    
+    .profile {
+	    margin-right: 5%;
+	    margin-left: 5%;
+	    margin-top: 10px;
+	    
+	    width: 90%;
+	    display: block;
+	    margin-left: 10px;
+    }
 }
 
