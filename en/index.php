@@ -31,7 +31,7 @@
 
 <p>Years went by, and the blond-haired woman had forgotten the piercing scream on that parking lot, but her unconscious memories kept preserving the emotions she associated with that very scream, waiting to surface until she heard a similar sound. In her daily life, there was a ubiquitous flood of cries, but nothing like the sound that echoed through the aisles of a hospital in North Brabant. The cries of children were not similar at al; children make cries of joy, not sorrow. Even the whining toddler on the playground sounded nothing like what she heard that night. It doesn't sound as real, as painful. Children are resilient, she knew due to her experience as a teacher.</p>
 
-<p>She never got to know, not even learned, that one of the toddlers—who all walked in her classroom that day—was the origin of the haunting scream she heard in the winter of ’96.</p>
+<p>She never got to know, not even learned, that one of the toddlers&mdash;who all walked in her classroom that day&mdash;was the origin of the haunting scream she heard in the winter of &rsquo;96.</p>
 	<p><b>Disclaimer: </b><i>The woman on the parking lot has never existed to the best of my knowledge.</i></p>
 	
 

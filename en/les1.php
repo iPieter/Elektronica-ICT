@@ -27,6 +27,8 @@
 		 <img src="../images/les_1_upside_pcb.jpg">			
 </div>
 <div class="image imagecaption">The top side of the PCB, at the end of the first lesson
+	<hr>
+
 </div>
 <!-- end image element -->
 
